@@ -1,0 +1,50 @@
+  214  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  215  ls
+  216  cat < grep "PHP" wilders.csv | echo > php_france_2019.csv
+  217  cat < grep PHP wilders.csv | echo > php_france_2019.csv
+  218  grep php wilders.csv
+  219  cat | grep php wilders.csv 
+  220  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  221  cat wilders.csv
+  222  grep PHP wilders.csv
+  223  wc -l | grep France,2019,PHP wilders.csv > php_france_2019.csv
+  224  wc -l | grep France,2019,PHP wilders.csv
+  225  grep France,2019,PHP wilders.csv | wc -l 
+  226  grep France,2019,PHP wilders.csv | wc -l | echo > php_france_2019.csv
+  227  cat php_france_2019.csv 
+  228  grep France,2019,PHP wilders.csv | wc -l > php_france_2019.csv
+  229  cat php_france_2019.csv 
+  230  grep javascript wilders.csv
+  231  grep JavaScript wilders.csv
+  232  grep JavaScript wilders.csv > JavaScript.csv
+  233  cat JavaScript.csv 
+  234  cat | grep Biarritz JavaScript.csv && greg Toulouse JavaScript.csv javascript_biarritz_toulouse.csv
+  235  cat | grep Biarritz JavaScript.csv greg Toulouse JavaScript.csv javascript_biarritz_toulouse.csv
+  236  cat | grep Biarritz JavaScript.csv greg Toulouse JavaScript.csv > javascript_biarritz_toulouse.csv
+  237  grep Biarritz JavaScript.csv && greg Toulouse JavaScript.csv > javascript_biarritz_toulouse.csv
+  238  grep Biarritz JavaScript.csv && grep Toulouse JavaScript.csv > javascript_biarritz_toulouse.csv
+  239  cat | grep Biarritz;Toulouse JavaScript.csv > javascript_biarritz_toulouse.csv
+  240  cat | grep Biarritz;Toulouse JavaScript.csv
+  241  man grep
+  242  grep Biarrits JavaScript.csv > javascript_biarritz_toulouse.csv && grep Toulouse JavaScript.csv > javascript_biarritz_toulouse.csv  
+  243  cat javascript_biarritz_toulouse.csv 
+  244  grep Biarrits JavaScript.csv > javascript_biarritz_toulouse.csv && grep Toulouse JavaScript.csv >> javascript_biarritz_toulouse.csv 
+  245  cat javascript_biarritz_toulouse.csv 
+  246  grep Biarrits JavaScript.csv > javascript_biarritz_toulouse.csv
+  247  cat javascript_biarritz_toulouse.csv 
+  248  greg Biarritz JavaScript.csv 
+  249  grep Biarritz JavaScript.csv 
+  250  grep Biarritz JavaScript.csv > javascript_biarritz_toulouse.csv 
+  251  cat javascript_biarritz_toulouse.csv 
+  252  grep Toulouse JavaScript.csv >> javascript_biarritz_toulouse.csv 
+  253  cat javascript_biarritz_toulouse.csv 
+  254  history tail -30
+  255  history tail 30
+  256  history
+  257  tail 50
+  258  tail history 50
+  259  man tail
+  260  history | tail
+  261  history | tail 50
+  262  history | tail -n 50
+  263  history | tail -n 50 > history.txt
